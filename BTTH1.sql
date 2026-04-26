@@ -1,4 +1,4 @@
-CREATE TABLE nghi_le_on_tap;
+CREATE DATABASE nghi_le_on_tap;
 USE nghi_le_on_tap;
 
 CREATE TABLE customers (
